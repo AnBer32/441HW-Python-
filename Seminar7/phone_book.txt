@@ -1,14 +1,5 @@
 Джеймс Хетфилд; 8 920 909 05 34;рабочий
 Тиль Линдеман; 8910 777 08 39;домашний
-C:/Users/Настя/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Настя/Desktop/PYTHON-HW/Seminar7/main.py;C:/Users/Настя/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Настя/Desktop/PYTHON-HW/Seminar7/main.py;C:/Users/Настя/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Настя/Desktop/PYTHON-HW/Seminar7/main.py
-Владимир Шахрин; 8 920 623 65 57;рабочий
-Андрей Макаревич; 8 920 926 62 38;не брать
-Ангус Янг; 8 920 945 48 79;гастрольный
-Валерий Кипелов; 8 920 942 49 96;основной
-Диана Арбенина; 8 960 720 08 06;рабочий
-Константин Киньчев; 8 929 028 28 61;домашний
-Джеймс Хетфилд; 8 920 909 05 34;рабочий
-Тиль Линдеман; 8910 777 08 39;домашний
 Пауль Ландерс; 8 920 901 04 51;домашний
 Владимир Шахрин; 8 920 623 65 57;рабочий
 Андрей Макаревич; 8 920 926 62 38;не брать
